@@ -1,7 +1,11 @@
 # UHI_Mitigation
 
-Krupa P Nadgir
+Krupa
+
 Nithyashree
+
 Prithivi
+
 Manasvini
+
 Deeksha
